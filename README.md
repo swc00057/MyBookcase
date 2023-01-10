@@ -7,3 +7,5 @@
 | 11/15~11/21 | 개인프로젝트 1주차 | [1주차 README](./readme/readme1-0.md)|
 | 11/22~11/28 | 개인프로젝트 2주차 | [2주차 README](./readme/readme2-0.md)|
 | 11/29~12/05 | 개인프로젝트 3주차 | [3주차 README](./readme/readme3-0.md)|
+
+### 개인정보처리방침 : [개인정보처리방침](./readme/readme9.md)
